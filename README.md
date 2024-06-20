@@ -15,12 +15,13 @@ LinkedIn: www.linkedin.com/in/karan-saj/
 Phone: +91-8968603753
 
 Experience: 
-* Member of Technical Staff II                              (Nov 2021 - till date)
-  Adobe
-* Software Developer                        				        (Aug 2020 - Oct 2021)
-  Hashedin by Deloitte
-* Software Developer Intern					                        (Aug 2019 - Aug 2020)
-  Hashedin By Deloitte
+* Member of Technical Staff II At Adobe
+  *  (Nov 2021 - till date)
+* Software Developer At Hashedin By Deloitte
+  *  (Aug 2020 - Oct 2021)
+* Software Developer Intern At Hashedin By Deloitte
+  *   (Aug 2019 - Aug 2020)
+  
  
 
 Professional Skills:
